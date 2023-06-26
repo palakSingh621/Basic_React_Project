@@ -8,12 +8,12 @@ function App() {
   const contacts=[
     {
       id: "1", 
-      name: "palak",
+      name: "Palak",
       email: "kushwaha621@gmail.com"
     },
     {
       id: "2",
-      name: "anshika",
+      name: "Anshika",
       email: "anshikaJaiswal91@gmail.com"
     }
   ];
